@@ -1,5 +1,8 @@
 <div align="center">
 
+
+![cover](assets/cover.png)
+
 # brand-style-research
 
 **把"研究一个品牌"变成 6 阶段固定流程：语料→提炼→对比→成文。**
